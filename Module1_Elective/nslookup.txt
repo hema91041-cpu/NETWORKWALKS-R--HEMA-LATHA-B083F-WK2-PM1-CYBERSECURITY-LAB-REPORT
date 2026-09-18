@@ -1,0 +1,7 @@
+Server:		10.42.27.249
+Address:	10.42.27.249#53
+
+Non-authoritative answer:
+Name:	networkwalks.com
+Address: 192.232.216.135
+
