@@ -1,0 +1,7 @@
+Starting Nmap 7.991 ( https://nmap.org ) at 2026-09-18 19:20 +0530
+Nmap scan report for 10.42.27.249
+Host is up (0.0079s latency).
+MAC Address: 7A:20:0C:BC:A0:12 (Unknown)
+Nmap scan report for 10.42.27.80
+Host is up.
+Nmap done: 256 IP addresses (2 hosts up) scanned in 7.87 seconds
